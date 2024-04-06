@@ -20,28 +20,32 @@
 // var tw$ice
 
 // QUESTION 3
-const ul = document.querySelector("ul")
+// const ul = document.querySelector("ul")
 
-const dollar = "$"
+// const dollar = "$"
 
-const underScore = "_"
+// const underScore = "_"
 
-const words = "leters"
+// const words = "leters"
 
-const num = "numbers"
+// const num = "numbers"
 
-ul.innerHTML = 
-`<h1>Rules for naming JS variables</h1>
+// const sens = "sensitive"
 
-<li>A heading stating “Rules for naming JS variables”</li> 
+// const key = "keywords"
 
-<li>Variable names can only contain ${dollar}, ${underScore},
-${words} and ${num}.
-For example $my_1stVariable</li> 
+// ul.innerHTML = 
+// `<h1>Rules for naming JS variables</h1>
 
-<li>Variables must begin with a ${dollar}, ${underScore} or
-${words}. For example $name, _name or name</li>
+// <li>A heading stating “Rules for naming JS variables”</li> 
 
-<li></li> 
+// <li>Variable names can only contain ${dollar}, ${underScore},
+// ${words} and ${num}.
+// For example $my_1stVariable</li> 
 
-<li></li>`
+// <li>Variables must begin with a ${dollar}, ${underScore} or
+// ${words}. For example $name, _name or name</li>
+
+// <li>Variable names are case ${sens}</li> 
+
+// <li> Variable names should not be JS ${key}</li>`
